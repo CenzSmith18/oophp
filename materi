@@ -1,0 +1,36 @@
+OOP atau Object Oriented Programming
+
+- Menyusun semua kode program dan struktur data sebagai objek
+- Objek adalah unit dasar dari program
+- Objek menyimpan data dan perilaku
+- Objek bisa saling berinteraksi
+- Java, Ruby, Python, C++, JavaScript, Dan PHP5
+
+Kelebihan
+- Representasi dunia nyata
+- Enkapsulasi & Abstraks Data
+- Reusability
+- Skabiliktas & Ekstensibilitas
+- Kemudahan pengelolaan
+- Kolaborasi
+- Digunakan oleh framework
+
+
+Basic
+- Class & Object
+- Property & Method
+- Constructor
+- Object Type
+- Inheritance
+- Visibility / Acces Modifier
+- Setter & Getter
+- Static Method
+
+Advanced
+- Abstract  Interface
+- Interceptor
+- Object Cloning
+- Callbacks & Closures
+- Namespaces & Autoloading
+.....
+
